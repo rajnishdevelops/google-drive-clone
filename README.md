@@ -15,7 +15,7 @@ Navigation Bar: A fixed navigation bar with search functionality and user profil
 Side Navigation: A sidebar for easy access to different sections of Google Drive.
 Folder Cards: Display of folders with icons for a clean and organized look.
 
-Learning Outcomes:
+Learning Outcomes
 
 Semantic HTML: Use of semantic elements to improve accessibility and SEO.
 Responsive Layout: Implementation of a responsive design using Materialize CSS classes to ensure the page looks good on all devices.
